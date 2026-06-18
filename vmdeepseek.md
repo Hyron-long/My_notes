@@ -1,4 +1,4 @@
-# DeepSeek 配置
+- [ ] # DeepSeek 配置
 
 ```bash
 export ANTHROPIC_BASE_URL=https://api.deepseek.com/anthropic
